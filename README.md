@@ -1,4 +1,10 @@
-## Hi there 👋
+## Привет 👋 ##
+![](https://komarev.com/ghpvc/?username=abracadabragin)
+
+##### CODEWARS #####
+[![codewars](https://www.codewars.com/users/abracadabragin/badges/large)](https://www.codewars.com/users/abracadabragin)
+##### LEETCODE #####
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=abracadabragin&theme=dark)](https://github.com/abracadabragin/leetcode-stats)
 
 <!--
 **abracadabragin/abracadabragin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
